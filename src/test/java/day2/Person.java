@@ -34,11 +34,4 @@ public class Person {
 	public void setgender(char gender) {
 		this.gender=gender;
 	}
-	
-	/*public void display() {
-		System.out.println("Person Details:");
-		System.out.println("First Name : "+ firstName);
-		System.out.println("Last Name : " + lastName);
-		System.out.println("Gender :"+ gender);
-	}*/
 }
