@@ -1,7 +1,6 @@
-package pac1;
+package day1;
 
-public class personal_detail {
-
+public class personal_details {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String firstName="Divya";
