@@ -20,8 +20,9 @@ public class Account {
     public void withdraw(double amount) {
         if(balance - amount >= 500)
             balance -= amount;
-        else
+        else {
             System.out.println("Minimum balance should be 500");
+        }
     }
 
     public double getBalance() {

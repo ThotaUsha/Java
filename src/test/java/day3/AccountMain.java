@@ -6,6 +6,7 @@ public class AccountMain {
         Person smith = new Person("Smith", 25);
         Person kathy = new Person("Kathy", 30);
 
+        
         Account acc1 = new Account(smith, 2000);
         Account acc2 = new Account(kathy, 3000);
 
